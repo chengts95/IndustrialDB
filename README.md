@@ -8,6 +8,10 @@ the message, a  tornado bassed web app to respond to clients
 
 
 
+AAt first you should install and config mongoDB and Redis.
+
+
  
+
 
 
