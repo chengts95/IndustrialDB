@@ -1,0 +1,5 @@
+minimalmodbus=0.6.0
+pymongo==2.7.1
+pyserial==2.7
+redis==2.10.1
+tornado==2.7
